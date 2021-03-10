@@ -1,0 +1,7 @@
+{
+    "git.allowForcePush": true,
+    "git.ignoreMissingGitWarning": true,
+    "git.ignoreLimitWarning": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.autoStash": true
+}
